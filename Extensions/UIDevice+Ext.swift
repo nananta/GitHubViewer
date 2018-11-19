@@ -1,9 +1,18 @@
-//
-//  UIDevice+Ext.swift
-//  GitHubViewer
-//
-//  Created by Nitinan Ananta on 11/15/18.
-//  Copyright © 2018 Nitinan Ananta. All rights reserved.
-//
+import UIKit
 
-import Foundation
+extension UIDevice
+{
+    func isPortrait() -> Bool
+    {
+        return orientation.isValidInterfaceOrientation
+            ? orientation.isPortrait
+            : UIApplication.shared.statusBarOrientation.isPortrait
+    }
+    
+    func iPhone() -> Bool
+    {
+        return UIDevice.current.userInterfaceIdiom == .phone
+    }
+}
+
+

@@ -228,42 +228,58 @@ struct GitHubApi
 //        }
     }
     
+    /*
+     Contains commit diffs in a pull request. Example diff chunk...
+        diff --git a/MagicalRecord/Categories/DataImport/MagicalImportFunctions.m b/MagicalRecord/Categories/DataImport/MagicalImportFunctions.m
+        index bfd31a95..8ac67f48 100644
+        --- a/MagicalRecord/Categories/DataImport/MagicalImportFunctions.m
+        +++ b/MagicalRecord/Categories/DataImport/MagicalImportFunctions.m
+        @@ -67,7 +67,7 @@
+        {
+        return NULL;
+        }
+        -    UIColor *color = [UIColor colorWithRed:(componentValues[0] / 255.0f)
+        -                                     green:(componentValues[1] / 255.0f)
+        -                                      blue:(componentValues[2] / 255.0f)
+        +    UIColor *color = [UIColor colorWithRed:(componentValues[0] / (CGFloat)255.)
+        +                                     green:(componentValues[1] / (CGFloat)255.)
+        +                                      blue:(componentValues[2] / (CGFloat)255.)
+        alpha:componentValues[3]];
+    */
     struct PullRequestDiff
     {
-        enum Status
+        enum fileStatus: String
         {
-            case unchanged
-            case changed
-            case added
-//            case removed
+            case old = ""
+            case new = "(new)"
+            case deleted = "(deleted)"
+            case renamed = "(renamed)"
         }
         
-        struct LineDiff
+        struct Chunk
         {
-            var old: String?    // If "new" is nil, then unchanged line
-            var new: String?    // If "old" is nil, then this is new line
+            var oldLines: [String]  // Current/previous lines
+            var newLines: [String]  // If empty, chunk is unchanged
+            var changed: Bool
         }
         
-        struct CodeChunk
+        struct Section
         {
-            var start: String?
-            var firstLineNum: Int?
-            var lines: [LineDiff]?
-//            var lines: [String: Status]?
+            var start: String?      // e.g. "@@ -67,7 +67,7 @@" above
+            var oldFirstLine: Int   // First line number for old content
+            var newFirstLine: Int   // First line number for new content
+            var chunks: [Chunk]
         }
 
         struct File
         {
             var filePath: String?
-            var chunks: [CodeChunk]?
+            var newFilePath: String?    // If set, file was renamed
+            var fileStatus: fileStatus
+            var sections: [Section]
         }
         
         var fileDiffs: [File]?
-        
-//        var filePath: String?
-//        var chunks: [CodeChunk]?
-//        var codeBlockStart: String? // e.g. “@@ -67,7 +67,7 @@“
-//        var blocks: [[String: diffStatus]]?
     }
 }
 

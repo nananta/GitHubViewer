@@ -3,56 +3,88 @@ import os.log
 
 extension URLSession
 {
-    static func fetchData<T: Codable>(from url: URL,
-                                      completion: @escaping (T) -> Void)
+    // Fetch json data and decode
+    static func fetchJson<T: Codable>(from url: URL,
+                                      completion: @escaping (T?, HTTPURLResponse?, Error?) -> Void)
+    {
+        URLSession.shared.dataTask(with: url) {
+            (data, response, error) in
+            
+            if let err = error
+            {
+                os_log("%@: Received error %@ for url %@",
+                       type: .error,
+                       #function, err.localizedDescription, url.description)
+                return
+            }
+            
+            decodeJson(data: data, response: response as? HTTPURLResponse, error: error, completion: completion)
+        }.resume()
+    }
+
+    // Fetch json data and decode
+    static func fetchJson<T: Codable>(from urlRequest: URLRequest,
+                                      completion: @escaping (T?, HTTPURLResponse?, Error?) -> Void)
+    {
+        URLSession.shared.dataTask(with: urlRequest) {
+            (data, response, error) in
+            
+            if let err = error
+            {
+                os_log("%@: Received error %@ for url request %@",
+                       type: .error,
+                       #function, err.localizedDescription, urlRequest.description)
+                return
+            }
+            
+            decodeJson(data: data, response: response as? HTTPURLResponse, error: error, completion: completion)
+        }.resume()
+    }
+    
+    // Decode json and call completion handler
+    private static func decodeJson<T: Codable>(data: Data?,
+                                               response: HTTPURLResponse?,
+                                               error: Error?,
+                                               completion: @escaping (T?, HTTPURLResponse?, Error?) -> Void)
+    {
+        guard let data = data else { return }
+
+        do
+        {
+            let decoded = try JSONDecoder().decode(T.self, from: data)
+            completion(decoded, response, error)
+        }
+        catch let err
+        {
+            os_log("JSON decoding failed: %@", type: .error, err as CVarArg)
+            completion(nil, response, error)
+        }
+    }
+    
+    // Fetch raw data from URL
+    static func fetchData(from url: URL,
+                          completion: @escaping (String) -> Void)
     {
         URLSession.shared.dataTask(with: url) {
             (data, response, error) in
             
             guard error == nil,
-                let d = data else { return }
+                let data = data else { return }
             
-            do
+            if let dataStr = String(data: data, encoding: .utf8)
             {
-//                let str = String(data: d, encoding: .utf8)
-//                print(str)
-                
-                let decodedData = try JSONDecoder().decode(T.self, from: d)
-                print(decodedData)
-                completion(decodedData)
+//                print("data:" + data)
+                completion(dataStr)
             }
-            catch let err
+            else
             {
-                os_log("JSON decoding failed: %@", type: .error, err as CVarArg)
+                os_log("%@: Failed to decode string from response: %@",
+                       type: .error,
+                       #function, response.debugDescription)
             }
         }.resume()
     }
 
-    static func fetchData<T: Codable>(from urlRequest: URLRequest,
-                                      completion: @escaping (T) -> Void)
-    {
-        URLSession.shared.dataTask(with: urlRequest) {
-            (data, response, error) in
-            
-            guard error == nil,
-                let d = data else { return }
-            
-            do
-            {
-                let data = String(data: d, encoding: .utf8)
-                print("data:" + data!)
-                
-                let decodedData = try JSONDecoder().decode(T.self, from: d)
-                print(decodedData)
-                completion(decodedData)
-            }
-            catch let err
-            {
-                os_log("JSON decoding failed: %@", type: .error, err as CVarArg)
-            }
-            }.resume()
-    }
-    
     static func download(file: URL,
                          to dir: URL)
     {

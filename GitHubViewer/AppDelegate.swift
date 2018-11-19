@@ -1,22 +1,22 @@
-//
-//  AppDelegate.swift
-//  GitHubViewer
-//
-//  Created by Nitinan Ananta on 11/12/18.
-//  Copyright © 2018 Nitinan Ananta. All rights reserved.
-//
-
 import UIKit
 import CoreData
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
-
+class AppDelegate: UIResponder, UIApplicationDelegate
+{
     var window: UIWindow?
 
+    func application(_ application: UIApplication,
+                     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool
+    {
+        // Set up root VC/view
+        let pullReqVC = PullRequestsTableVC()
+        let navVC = UINavigationController(rootViewController: pullReqVC)
+        window = UIWindow()
+        window?.rootViewController = navVC
+        window?.makeKeyAndVisible()
+        window?.backgroundColor = .white
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
         return true
     }
 

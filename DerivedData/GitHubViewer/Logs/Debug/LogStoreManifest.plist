@@ -5,6 +5,4357 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0025B356-58FF-4A46-A1BA-03FAD476FEB4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0025B356-58FF-4A46-A1BA-03FAD476FEB4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564275100.02996898</real>
+			<key>timeStoppedRecording</key>
+			<real>564275183.62733996</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>0025B356-58FF-4A46-A1BA-03FAD476FEB4</string>
+		</dict>
+		<key>01672A03-5D20-4487-9591-272FC26A7F28</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>01672A03-5D20-4487-9591-272FC26A7F28.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304819.28096199</real>
+			<key>timeStoppedRecording</key>
+			<real>564304933.52565205</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>01672A03-5D20-4487-9591-272FC26A7F28</string>
+		</dict>
+		<key>02E67B95-B4C3-45BD-A28E-0B4E0777D531</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>02E67B95-B4C3-45BD-A28E-0B4E0777D531.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564300248.71968699</real>
+			<key>timeStoppedRecording</key>
+			<real>564300301.70437205</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>02E67B95-B4C3-45BD-A28E-0B4E0777D531</string>
+		</dict>
+		<key>057D37F0-B57F-4AD4-A773-9720F1482D69</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>057D37F0-B57F-4AD4-A773-9720F1482D69.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303825.97884202</real>
+			<key>timeStoppedRecording</key>
+			<real>564303884.43348205</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>057D37F0-B57F-4AD4-A773-9720F1482D69</string>
+		</dict>
+		<key>05C67A4B-1DB1-405D-85B1-C1427496E6BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>05C67A4B-1DB1-405D-85B1-C1427496E6BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564296964.04152906</real>
+			<key>timeStoppedRecording</key>
+			<real>564297041.12487805</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>05C67A4B-1DB1-405D-85B1-C1427496E6BC</string>
+		</dict>
+		<key>065A3489-1490-4D4D-A582-7A4873CB17E2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>065A3489-1490-4D4D-A582-7A4873CB17E2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564274220.00438905</real>
+			<key>timeStoppedRecording</key>
+			<real>564275099.257236</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>065A3489-1490-4D4D-A582-7A4873CB17E2</string>
+		</dict>
+		<key>07337A56-748D-48A0-9A89-DD55C6CA5D25</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>07337A56-748D-48A0-9A89-DD55C6CA5D25.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279777.22338498</real>
+			<key>timeStoppedRecording</key>
+			<real>564279874.12603796</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>07337A56-748D-48A0-9A89-DD55C6CA5D25</string>
+		</dict>
+		<key>081471F0-5AA4-4FD8-8BFA-07077DE4CFEF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>081471F0-5AA4-4FD8-8BFA-07077DE4CFEF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564241048.17016697</real>
+			<key>timeStoppedRecording</key>
+			<real>564241334.34620595</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>081471F0-5AA4-4FD8-8BFA-07077DE4CFEF</string>
+		</dict>
+		<key>08391CB3-DB10-4BBC-9327-B95A9E687583</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>08391CB3-DB10-4BBC-9327-B95A9E687583.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302449.10640597</real>
+			<key>timeStoppedRecording</key>
+			<real>564302501.09367597</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>08391CB3-DB10-4BBC-9327-B95A9E687583</string>
+		</dict>
+		<key>113E5D17-0EC0-457C-B2D3-F164B64BCEDA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>113E5D17-0EC0-457C-B2D3-F164B64BCEDA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564233158.75979495</real>
+			<key>timeStoppedRecording</key>
+			<real>564233190.54015398</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>113E5D17-0EC0-457C-B2D3-F164B64BCEDA</string>
+		</dict>
+		<key>14F66CDB-34F3-4358-8A16-9DE0CAFC1B91</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>14F66CDB-34F3-4358-8A16-9DE0CAFC1B91.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302847.83205497</real>
+			<key>timeStoppedRecording</key>
+			<real>564302926.17577004</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>14F66CDB-34F3-4358-8A16-9DE0CAFC1B91</string>
+		</dict>
+		<key>15842A8B-D8FF-41EA-BECD-4F4559399B52</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>15842A8B-D8FF-41EA-BECD-4F4559399B52.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564228437.67032194</real>
+			<key>timeStoppedRecording</key>
+			<real>564228557.46576095</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>15842A8B-D8FF-41EA-BECD-4F4559399B52</string>
+		</dict>
+		<key>17E8D6B1-586E-4219-9238-6D13DA7D4C76</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>17E8D6B1-586E-4219-9238-6D13DA7D4C76.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303887.38468301</real>
+			<key>timeStoppedRecording</key>
+			<real>564303971.28477705</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>17E8D6B1-586E-4219-9238-6D13DA7D4C76</string>
+		</dict>
+		<key>1A8A22FE-D9EE-48FA-ADE8-5DAF261869B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1A8A22FE-D9EE-48FA-ADE8-5DAF261869B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564272668.72000802</real>
+			<key>timeStoppedRecording</key>
+			<real>564272694.82497001</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>1A8A22FE-D9EE-48FA-ADE8-5DAF261869B1</string>
+		</dict>
+		<key>1EA3CBB9-9185-4A77-8055-758A4CFCC55C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1EA3CBB9-9185-4A77-8055-758A4CFCC55C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564296887.97293603</real>
+			<key>timeStoppedRecording</key>
+			<real>564296961.91519201</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>1EA3CBB9-9185-4A77-8055-758A4CFCC55C</string>
+		</dict>
+		<key>21A8BCC2-65BD-4E9D-B756-1984AB29A3A9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>21A8BCC2-65BD-4E9D-B756-1984AB29A3A9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278728.16089702</real>
+			<key>timeStoppedRecording</key>
+			<real>564278914.64973104</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>21A8BCC2-65BD-4E9D-B756-1984AB29A3A9</string>
+		</dict>
+		<key>21FD3008-62CD-4099-BDCC-B298EE26C1E9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>21FD3008-62CD-4099-BDCC-B298EE26C1E9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564237283.08664894</real>
+			<key>timeStoppedRecording</key>
+			<real>564237328.56043506</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>21FD3008-62CD-4099-BDCC-B298EE26C1E9</string>
+		</dict>
+		<key>25A10488-B780-462E-9C10-AE46837683BE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>25A10488-B780-462E-9C10-AE46837683BE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564226616.623564</real>
+			<key>timeStoppedRecording</key>
+			<real>564226974.81645799</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>25A10488-B780-462E-9C10-AE46837683BE</string>
+		</dict>
+		<key>25D5C4DB-7D32-4AE1-A935-DB54BBE795B7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>25D5C4DB-7D32-4AE1-A935-DB54BBE795B7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564272697.13833296</real>
+			<key>timeStoppedRecording</key>
+			<real>564272832.84387696</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>25D5C4DB-7D32-4AE1-A935-DB54BBE795B7</string>
+		</dict>
+		<key>27D778B6-A097-4EE9-A609-E381F4D3A273</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>27D778B6-A097-4EE9-A609-E381F4D3A273.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564226463.65952897</real>
+			<key>timeStoppedRecording</key>
+			<real>564226613.03965199</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>27D778B6-A097-4EE9-A609-E381F4D3A273</string>
+		</dict>
+		<key>28F8150C-6A4E-4660-A6D9-A9D53A564ECC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>28F8150C-6A4E-4660-A6D9-A9D53A564ECC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303297.93729103</real>
+			<key>timeStoppedRecording</key>
+			<real>564303332.28750503</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>28F8150C-6A4E-4660-A6D9-A9D53A564ECC</string>
+		</dict>
+		<key>2BF8815F-DD4D-4C2D-AFF3-210C27DC0FE7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2BF8815F-DD4D-4C2D-AFF3-210C27DC0FE7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564271663.50757098</real>
+			<key>timeStoppedRecording</key>
+			<real>564271941.31905305</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>2BF8815F-DD4D-4C2D-AFF3-210C27DC0FE7</string>
+		</dict>
+		<key>2E12BEA9-3E43-42B7-BCDD-785937A5D2D6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2E12BEA9-3E43-42B7-BCDD-785937A5D2D6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278253.30747902</real>
+			<key>timeStoppedRecording</key>
+			<real>564278314.88016403</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>2E12BEA9-3E43-42B7-BCDD-785937A5D2D6</string>
+		</dict>
+		<key>2F923BA0-1788-42E0-9B66-6AA60B59E370</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2F923BA0-1788-42E0-9B66-6AA60B59E370.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564239912.429672</real>
+			<key>timeStoppedRecording</key>
+			<real>564240074.61759806</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>2F923BA0-1788-42E0-9B66-6AA60B59E370</string>
+		</dict>
+		<key>31E14102-1B3C-4F3F-8844-7B933CED4557</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>31E14102-1B3C-4F3F-8844-7B933CED4557.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302713.09905803</real>
+			<key>timeStoppedRecording</key>
+			<real>564302768.24245596</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>31E14102-1B3C-4F3F-8844-7B933CED4557</string>
+		</dict>
+		<key>320D9C3F-FA3A-4565-B4FA-8B3122DC83E7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>320D9C3F-FA3A-4565-B4FA-8B3122DC83E7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279461.74708104</real>
+			<key>timeStoppedRecording</key>
+			<real>564279486.766644</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>320D9C3F-FA3A-4565-B4FA-8B3122DC83E7</string>
+		</dict>
+		<key>323C5193-DB32-4F3E-A5EE-CEF89485FF32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>323C5193-DB32-4F3E-A5EE-CEF89485FF32.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304154.40955305</real>
+			<key>timeStoppedRecording</key>
+			<real>564304204.64148104</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>323C5193-DB32-4F3E-A5EE-CEF89485FF32</string>
+		</dict>
+		<key>353EAF16-A0FF-4A78-8F86-E975D4843E58</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>353EAF16-A0FF-4A78-8F86-E975D4843E58.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564241337.55195999</real>
+			<key>timeStoppedRecording</key>
+			<real>564241369.34165895</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>353EAF16-A0FF-4A78-8F86-E975D4843E58</string>
+		</dict>
+		<key>36328727-7F4C-44A5-B876-4C15325FCEA6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>36328727-7F4C-44A5-B876-4C15325FCEA6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564231037.14519</real>
+			<key>timeStoppedRecording</key>
+			<real>564231291.69532502</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>36328727-7F4C-44A5-B876-4C15325FCEA6</string>
+		</dict>
+		<key>383B8689-5D88-4283-AC59-22054EB4DDBA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>383B8689-5D88-4283-AC59-22054EB4DDBA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564271179.02922297</real>
+			<key>timeStoppedRecording</key>
+			<real>564271367.78245699</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>383B8689-5D88-4283-AC59-22054EB4DDBA</string>
+		</dict>
+		<key>392FDFC6-3B74-4AC9-8F51-8C3F3751803A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>392FDFC6-3B74-4AC9-8F51-8C3F3751803A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302931.63585997</real>
+			<key>timeStoppedRecording</key>
+			<real>564303014.20078099</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>392FDFC6-3B74-4AC9-8F51-8C3F3751803A</string>
+		</dict>
+		<key>3A55A6B0-D021-4C60-8B4E-62801D24F514</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3A55A6B0-D021-4C60-8B4E-62801D24F514.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304112.23713195</real>
+			<key>timeStoppedRecording</key>
+			<real>564304148.91603506</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>3A55A6B0-D021-4C60-8B4E-62801D24F514</string>
+		</dict>
+		<key>3AB32A38-410F-441D-A723-6DD72B3ED496</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3AB32A38-410F-441D-A723-6DD72B3ED496.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564231924.11620605</real>
+			<key>timeStoppedRecording</key>
+			<real>564231981.82940805</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>3AB32A38-410F-441D-A723-6DD72B3ED496</string>
+		</dict>
+		<key>3CD3E23A-D7A5-448A-823C-47CBCBFED6B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3CD3E23A-D7A5-448A-823C-47CBCBFED6B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305773.01900399</real>
+			<key>timeStoppedRecording</key>
+			<real>564305802.22689295</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>3CD3E23A-D7A5-448A-823C-47CBCBFED6B3</string>
+		</dict>
+		<key>3D46092D-E124-4BC5-81BD-82596F5E3F8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3D46092D-E124-4BC5-81BD-82596F5E3F8C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278993.55909503</real>
+			<key>timeStoppedRecording</key>
+			<real>564279016.41111803</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>3D46092D-E124-4BC5-81BD-82596F5E3F8C</string>
+		</dict>
+		<key>3E1E185A-B444-4EB2-A446-506A021C982C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E1E185A-B444-4EB2-A446-506A021C982C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304732.34198403</real>
+			<key>timeStoppedRecording</key>
+			<real>564304763.83690596</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>3E1E185A-B444-4EB2-A446-506A021C982C</string>
+		</dict>
+		<key>3F5C9D28-544F-4CE1-B837-F185B2824F20</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F5C9D28-544F-4CE1-B837-F185B2824F20.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564229670.96835101</real>
+			<key>timeStoppedRecording</key>
+			<real>564229871.02313101</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>3F5C9D28-544F-4CE1-B837-F185B2824F20</string>
+		</dict>
+		<key>423BC57F-7440-476D-A05A-CC64FA03CB7D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>423BC57F-7440-476D-A05A-CC64FA03CB7D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564271515.17323506</real>
+			<key>timeStoppedRecording</key>
+			<real>564271660.31081903</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>423BC57F-7440-476D-A05A-CC64FA03CB7D</string>
+		</dict>
+		<key>42C33447-669C-472F-A375-51C9ABC69C70</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>42C33447-669C-472F-A375-51C9ABC69C70.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279489.37188601</real>
+			<key>timeStoppedRecording</key>
+			<real>564279509.76572299</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>42C33447-669C-472F-A375-51C9ABC69C70</string>
+		</dict>
+		<key>439DED90-7D54-4E80-9609-5D60B7DD9210</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>439DED90-7D54-4E80-9609-5D60B7DD9210.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564300325.09764504</real>
+			<key>timeStoppedRecording</key>
+			<real>564300351.84507298</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>439DED90-7D54-4E80-9609-5D60B7DD9210</string>
+		</dict>
+		<key>457E0EA5-3E1A-4C7D-9CAD-AED28ED82B57</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>457E0EA5-3E1A-4C7D-9CAD-AED28ED82B57.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303337.59575498</real>
+			<key>timeStoppedRecording</key>
+			<real>564303385.17693198</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>457E0EA5-3E1A-4C7D-9CAD-AED28ED82B57</string>
+		</dict>
+		<key>48594ED5-9606-48EB-857A-4E3D5D312107</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>48594ED5-9606-48EB-857A-4E3D5D312107.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564227142.94770002</real>
+			<key>timeStoppedRecording</key>
+			<real>564228246.85113502</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>48594ED5-9606-48EB-857A-4E3D5D312107</string>
+		</dict>
+		<key>485BE300-14C9-492F-AECF-D33111E2C738</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>485BE300-14C9-492F-AECF-D33111E2C738.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305831.93070602</real>
+			<key>timeStoppedRecording</key>
+			<real>564305848.88510299</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>485BE300-14C9-492F-AECF-D33111E2C738</string>
+		</dict>
+		<key>4B9F52E8-52DB-4EFE-B606-94EBC46E5CDE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4B9F52E8-52DB-4EFE-B606-94EBC46E5CDE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564309826.93715203</real>
+			<key>timeStoppedRecording</key>
+			<real>564309941.78131998</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>4B9F52E8-52DB-4EFE-B606-94EBC46E5CDE</string>
+		</dict>
+		<key>4C85C620-DB59-4AD0-9279-F44E2314454E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4C85C620-DB59-4AD0-9279-F44E2314454E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304588.61909497</real>
+			<key>timeStoppedRecording</key>
+			<real>564304613.40213799</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>4C85C620-DB59-4AD0-9279-F44E2314454E</string>
+		</dict>
+		<key>4F300654-DD59-48E0-AF65-081018B8ACD7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4F300654-DD59-48E0-AF65-081018B8ACD7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564275270.37479198</real>
+			<key>timeStoppedRecording</key>
+			<real>564276028.230551</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>4F300654-DD59-48E0-AF65-081018B8ACD7</string>
+		</dict>
+		<key>5328F999-756E-4AA0-9FA9-5A4437632763</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5328F999-756E-4AA0-9FA9-5A4437632763.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564240078.003057</real>
+			<key>timeStoppedRecording</key>
+			<real>564240419.80194104</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>5328F999-756E-4AA0-9FA9-5A4437632763</string>
+		</dict>
+		<key>5B307011-18DD-43AC-98A8-17014BA3E84A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5B307011-18DD-43AC-98A8-17014BA3E84A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564232162.92693603</real>
+			<key>timeStoppedRecording</key>
+			<real>564233081.74848902</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>5B307011-18DD-43AC-98A8-17014BA3E84A</string>
+		</dict>
+		<key>5D2D62F8-561C-447F-BBD0-BBBEA4D6FE20</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5D2D62F8-561C-447F-BBD0-BBBEA4D6FE20.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303984.02626204</real>
+			<key>timeStoppedRecording</key>
+			<real>564304070.37947798</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>5D2D62F8-561C-447F-BBD0-BBBEA4D6FE20</string>
+		</dict>
+		<key>5FBFA0A7-6E6B-4D29-9D0B-709C6ADAA315</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5FBFA0A7-6E6B-4D29-9D0B-709C6ADAA315.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304233.47983396</real>
+			<key>timeStoppedRecording</key>
+			<real>564304331.89116204</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>5FBFA0A7-6E6B-4D29-9D0B-709C6ADAA315</string>
+		</dict>
+		<key>604A240A-1DF0-4330-B256-9FCF56C386DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>604A240A-1DF0-4330-B256-9FCF56C386DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564309410.875687</real>
+			<key>timeStoppedRecording</key>
+			<real>564309489.94467604</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>604A240A-1DF0-4330-B256-9FCF56C386DD</string>
+		</dict>
+		<key>64F99097-0762-4426-87FD-54BD5C6DB8D7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>64F99097-0762-4426-87FD-54BD5C6DB8D7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564294887.00581598</real>
+			<key>timeStoppedRecording</key>
+			<real>564296040.82787299</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>64F99097-0762-4426-87FD-54BD5C6DB8D7</string>
+		</dict>
+		<key>65898EEC-4300-4DF1-8CCC-A15C39D6F81A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65898EEC-4300-4DF1-8CCC-A15C39D6F81A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564231399.31212997</real>
+			<key>timeStoppedRecording</key>
+			<real>564231652.84401798</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>65898EEC-4300-4DF1-8CCC-A15C39D6F81A</string>
+		</dict>
+		<key>66B9CC7C-0951-43FC-8521-EB086D835CAC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>66B9CC7C-0951-43FC-8521-EB086D835CAC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302376.22973394</real>
+			<key>timeStoppedRecording</key>
+			<real>564302443.73942196</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>66B9CC7C-0951-43FC-8521-EB086D835CAC</string>
+		</dict>
+		<key>66F9E05E-CD54-475D-B831-5153966E7B76</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>66F9E05E-CD54-475D-B831-5153966E7B76.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304938.99062204</real>
+			<key>timeStoppedRecording</key>
+			<real>564304982.16472006</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>66F9E05E-CD54-475D-B831-5153966E7B76</string>
+		</dict>
+		<key>698244AE-4A42-4DFC-999D-777019866EE3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>698244AE-4A42-4DFC-999D-777019866EE3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564280012.894099</real>
+			<key>timeStoppedRecording</key>
+			<real>564280032.77764297</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>698244AE-4A42-4DFC-999D-777019866EE3</string>
+		</dict>
+		<key>6BEE047F-AE72-4731-AF97-9DCA9F5C1B66</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6BEE047F-AE72-4731-AF97-9DCA9F5C1B66.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564300354.43702304</real>
+			<key>timeStoppedRecording</key>
+			<real>564300364.92624295</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>6BEE047F-AE72-4731-AF97-9DCA9F5C1B66</string>
+		</dict>
+		<key>6D5BF377-46BC-4152-AACC-EF0F158F2D8A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6D5BF377-46BC-4152-AACC-EF0F158F2D8A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304484.21446002</real>
+			<key>timeStoppedRecording</key>
+			<real>564304498.59427702</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>6D5BF377-46BC-4152-AACC-EF0F158F2D8A</string>
+		</dict>
+		<key>6E2A1D7B-9854-444F-8FCE-462C9EEDA6A3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6E2A1D7B-9854-444F-8FCE-462C9EEDA6A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279675.84483695</real>
+			<key>timeStoppedRecording</key>
+			<real>564279713.17753005</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>6E2A1D7B-9854-444F-8FCE-462C9EEDA6A3</string>
+		</dict>
+		<key>6EA8AE3C-5120-4D9F-B786-8AFDCE1CF1B8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6EA8AE3C-5120-4D9F-B786-8AFDCE1CF1B8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564310167.56158495</real>
+			<key>timeStoppedRecording</key>
+			<real>564310340.69136</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>6EA8AE3C-5120-4D9F-B786-8AFDCE1CF1B8</string>
+		</dict>
+		<key>70572FB0-FE57-451F-BB05-7A118F44938A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>70572FB0-FE57-451F-BB05-7A118F44938A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303418.81058502</real>
+			<key>timeStoppedRecording</key>
+			<real>564303737.61538601</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>70572FB0-FE57-451F-BB05-7A118F44938A</string>
+		</dict>
+		<key>707D4761-7881-4586-946A-5FD77004377E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>707D4761-7881-4586-946A-5FD77004377E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564226974.85179901</real>
+			<key>timeStoppedRecording</key>
+			<real>564227142.89989603</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>707D4761-7881-4586-946A-5FD77004377E</string>
+		</dict>
+		<key>717D69D8-9A70-48A8-BE1C-FD084D9C9F0C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>717D69D8-9A70-48A8-BE1C-FD084D9C9F0C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303390.35600603</real>
+			<key>timeStoppedRecording</key>
+			<real>564303413.73291302</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>717D69D8-9A70-48A8-BE1C-FD084D9C9F0C</string>
+		</dict>
+		<key>76FFD615-0534-45C2-AA16-7C1DA8C2B6CF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>76FFD615-0534-45C2-AA16-7C1DA8C2B6CF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564228635.58896601</real>
+			<key>timeStoppedRecording</key>
+			<real>564228762.67472899</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>76FFD615-0534-45C2-AA16-7C1DA8C2B6CF</string>
+		</dict>
+		<key>79711DC5-870F-4A90-8A56-065DE3509E9C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>79711DC5-870F-4A90-8A56-065DE3509E9C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564228766.43826497</real>
+			<key>timeStoppedRecording</key>
+			<real>564228940.37119997</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>79711DC5-870F-4A90-8A56-065DE3509E9C</string>
+		</dict>
+		<key>7B529403-DDE6-441F-83A3-E3E932A190B0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7B529403-DDE6-441F-83A3-E3E932A190B0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279019.57711899</real>
+			<key>timeStoppedRecording</key>
+			<real>564279079.63925099</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>7B529403-DDE6-441F-83A3-E3E932A190B0</string>
+		</dict>
+		<key>7CA67B37-D286-439D-8535-21B7D70E6F7D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7CA67B37-D286-439D-8535-21B7D70E6F7D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564275186.44281006</real>
+			<key>timeStoppedRecording</key>
+			<real>564275268.02149105</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>7CA67B37-D286-439D-8535-21B7D70E6F7D</string>
+		</dict>
+		<key>7DDEF3BB-B704-4499-8DDC-9281A7407010</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7DDEF3BB-B704-4499-8DDC-9281A7407010.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564241634.33613503</real>
+			<key>timeStoppedRecording</key>
+			<real>564242777.46916199</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>7DDEF3BB-B704-4499-8DDC-9281A7407010</string>
+		</dict>
+		<key>7FC1D338-7306-4F9B-8EA5-721B46B549CD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FC1D338-7306-4F9B-8EA5-721B46B549CD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564297138.79184997</real>
+			<key>timeStoppedRecording</key>
+			<real>564297212.067747</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>7FC1D338-7306-4F9B-8EA5-721B46B549CD</string>
+		</dict>
+		<key>80C13318-C6CC-49BB-B4A7-AB8084F187C0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>80C13318-C6CC-49BB-B4A7-AB8084F187C0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279081.94871497</real>
+			<key>timeStoppedRecording</key>
+			<real>564279103.873366</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>80C13318-C6CC-49BB-B4A7-AB8084F187C0</string>
+		</dict>
+		<key>80F0ADEE-5B77-46B4-8F93-66AA6562527B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>80F0ADEE-5B77-46B4-8F93-66AA6562527B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564229874.35303295</real>
+			<key>timeStoppedRecording</key>
+			<real>564229883.88919497</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>80F0ADEE-5B77-46B4-8F93-66AA6562527B</string>
+		</dict>
+		<key>81127FF3-8CEB-4FB6-A065-8D399A13667E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>81127FF3-8CEB-4FB6-A065-8D399A13667E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305124.19241798</real>
+			<key>timeStoppedRecording</key>
+			<real>564305157.43172204</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>81127FF3-8CEB-4FB6-A065-8D399A13667E</string>
+		</dict>
+		<key>858CACBD-DA89-4132-816D-15DFDC87894B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>858CACBD-DA89-4132-816D-15DFDC87894B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304534.00307298</real>
+			<key>timeStoppedRecording</key>
+			<real>564304549.18201602</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>858CACBD-DA89-4132-816D-15DFDC87894B</string>
+		</dict>
+		<key>860C2B74-EECD-40E8-A6DD-4A291F0EB993</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>860C2B74-EECD-40E8-A6DD-4A291F0EB993.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278314.92712998</real>
+			<key>timeStoppedRecording</key>
+			<real>564278336.09818602</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>860C2B74-EECD-40E8-A6DD-4A291F0EB993</string>
+		</dict>
+		<key>861B5367-347B-4FA4-A763-D05C9AD41016</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>861B5367-347B-4FA4-A763-D05C9AD41016.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305806.05401897</real>
+			<key>timeStoppedRecording</key>
+			<real>564305828.16300905</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>861B5367-347B-4FA4-A763-D05C9AD41016</string>
+		</dict>
+		<key>86E78BDE-0751-4868-9B0B-BCDF197DB43F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>86E78BDE-0751-4868-9B0B-BCDF197DB43F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303744.35859394</real>
+			<key>timeStoppedRecording</key>
+			<real>564303794.15741003</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>86E78BDE-0751-4868-9B0B-BCDF197DB43F</string>
+		</dict>
+		<key>8700EFFF-E686-42E9-AD86-2994EBB08C93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8700EFFF-E686-42E9-AD86-2994EBB08C93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564280037.17236495</real>
+			<key>timeStoppedRecording</key>
+			<real>564280249.47275496</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>8700EFFF-E686-42E9-AD86-2994EBB08C93</string>
+		</dict>
+		<key>87674769-AFD1-4E3F-BF08-43D837BA687D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>87674769-AFD1-4E3F-BF08-43D837BA687D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303255.750211</real>
+			<key>timeStoppedRecording</key>
+			<real>564303292.68020499</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>87674769-AFD1-4E3F-BF08-43D837BA687D</string>
+		</dict>
+		<key>87FFDB69-6AF0-4C1F-93A8-2EF4CF238CE0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>87FFDB69-6AF0-4C1F-93A8-2EF4CF238CE0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564290243.92159903</real>
+			<key>timeStoppedRecording</key>
+			<real>564294228.73043299</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>87FFDB69-6AF0-4C1F-93A8-2EF4CF238CE0</string>
+		</dict>
+		<key>89BE272A-9416-4C4D-BAFC-2E0D5FA0080F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>89BE272A-9416-4C4D-BAFC-2E0D5FA0080F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564242781.141433</real>
+			<key>timeStoppedRecording</key>
+			<real>564242858.67149699</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>89BE272A-9416-4C4D-BAFC-2E0D5FA0080F</string>
+		</dict>
+		<key>8AC03130-849F-42CB-923F-19E63F1FB9A3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8AC03130-849F-42CB-923F-19E63F1FB9A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279106.13315594</real>
+			<key>timeStoppedRecording</key>
+			<real>564279278.94319999</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>8AC03130-849F-42CB-923F-19E63F1FB9A3</string>
+		</dict>
+		<key>8B32A385-798C-4467-99F0-596269A69F24</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8B32A385-798C-4467-99F0-596269A69F24.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302505.86961806</real>
+			<key>timeStoppedRecording</key>
+			<real>564302597.415658</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>8B32A385-798C-4467-99F0-596269A69F24</string>
+		</dict>
+		<key>8C43C7AA-38E9-4FD8-B0A8-B15D77F08DD3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C43C7AA-38E9-4FD8-B0A8-B15D77F08DD3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564272212.36592805</real>
+			<key>timeStoppedRecording</key>
+			<real>564272600.38107598</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>8C43C7AA-38E9-4FD8-B0A8-B15D77F08DD3</string>
+		</dict>
+		<key>94AC4FA9-69D0-45F7-8C6B-51BF31F0F408</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>94AC4FA9-69D0-45F7-8C6B-51BF31F0F408.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564302773.43049705</real>
+			<key>timeStoppedRecording</key>
+			<real>564302843.03615296</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>94AC4FA9-69D0-45F7-8C6B-51BF31F0F408</string>
+		</dict>
+		<key>9732BA23-C926-4313-9F47-B28BFDE381EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9732BA23-C926-4313-9F47-B28BFDE381EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304987.32155395</real>
+			<key>timeStoppedRecording</key>
+			<real>564305118.86769605</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9732BA23-C926-4313-9F47-B28BFDE381EF</string>
+		</dict>
+		<key>97B817C2-2C24-42A4-94DC-2D78814522CF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>97B817C2-2C24-42A4-94DC-2D78814522CF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564226149.45487201</real>
+			<key>timeStoppedRecording</key>
+			<real>564226405.50492799</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>97B817C2-2C24-42A4-94DC-2D78814522CF</string>
+		</dict>
+		<key>989C39FB-0ECD-4AFF-A27A-69093DEBFC15</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>989C39FB-0ECD-4AFF-A27A-69093DEBFC15.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304400.51818299</real>
+			<key>timeStoppedRecording</key>
+			<real>564304420.20089996</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>989C39FB-0ECD-4AFF-A27A-69093DEBFC15</string>
+		</dict>
+		<key>9B1CACFA-218B-4735-8632-61B0238C7BC2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9B1CACFA-218B-4735-8632-61B0238C7BC2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564297264.13542604</real>
+			<key>timeStoppedRecording</key>
+			<real>564297307.61041403</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9B1CACFA-218B-4735-8632-61B0238C7BC2</string>
+		</dict>
+		<key>9C4E3194-C9FC-4800-8228-29C85A239B37</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9C4E3194-C9FC-4800-8228-29C85A239B37.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564290206.24013698</real>
+			<key>timeStoppedRecording</key>
+			<real>564290240.46691</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9C4E3194-C9FC-4800-8228-29C85A239B37</string>
+		</dict>
+		<key>9C7F427C-FE68-49D9-9327-A462B79B92DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9C7F427C-FE68-49D9-9327-A462B79B92DD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564300217.58647597</real>
+			<key>timeStoppedRecording</key>
+			<real>564300245.99286103</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9C7F427C-FE68-49D9-9327-A462B79B92DD</string>
+		</dict>
+		<key>9CB93849-495D-49A4-B236-D8B2FDBF77D2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9CB93849-495D-49A4-B236-D8B2FDBF77D2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304617.17678297</real>
+			<key>timeStoppedRecording</key>
+			<real>564304642.19326496</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9CB93849-495D-49A4-B236-D8B2FDBF77D2</string>
+		</dict>
+		<key>9D337986-5CED-4DAE-AA7C-FE3D632FA608</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9D337986-5CED-4DAE-AA7C-FE3D632FA608.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305418.90140903</real>
+			<key>timeStoppedRecording</key>
+			<real>564305451.75271595</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9D337986-5CED-4DAE-AA7C-FE3D632FA608</string>
+		</dict>
+		<key>9DE640ED-FFA1-4A22-BE32-738C29CCA4F5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9DE640ED-FFA1-4A22-BE32-738C29CCA4F5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305325.49159896</real>
+			<key>timeStoppedRecording</key>
+			<real>564305414.39842296</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9DE640ED-FFA1-4A22-BE32-738C29CCA4F5</string>
+		</dict>
+		<key>9F74ACB3-B874-4700-B6A0-A8746B5CE57F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F74ACB3-B874-4700-B6A0-A8746B5CE57F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304209.45909405</real>
+			<key>timeStoppedRecording</key>
+			<real>564304228.59466302</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>9F74ACB3-B874-4700-B6A0-A8746B5CE57F</string>
+		</dict>
+		<key>A0593BEB-A2C8-4C16-ADAC-F56CA8AC19BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A0593BEB-A2C8-4C16-ADAC-F56CA8AC19BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564309503.11012697</real>
+			<key>timeStoppedRecording</key>
+			<real>564309767.14046896</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>A0593BEB-A2C8-4C16-ADAC-F56CA8AC19BC</string>
+		</dict>
+		<key>A132A3D5-1941-4D52-9587-1EEAD55369C7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A132A3D5-1941-4D52-9587-1EEAD55369C7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304502.40473104</real>
+			<key>timeStoppedRecording</key>
+			<real>564304530.19717503</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>A132A3D5-1941-4D52-9587-1EEAD55369C7</string>
+		</dict>
+		<key>A42CADAF-B485-48CA-A996-539F44BDEF4D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A42CADAF-B485-48CA-A996-539F44BDEF4D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564241369.37581003</real>
+			<key>timeStoppedRecording</key>
+			<real>564241486.30492699</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>A42CADAF-B485-48CA-A996-539F44BDEF4D</string>
+		</dict>
+		<key>A6A78ECA-CFBE-47C7-A2C0-45F27C508F7B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A6A78ECA-CFBE-47C7-A2C0-45F27C508F7B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278339.12257504</real>
+			<key>timeStoppedRecording</key>
+			<real>564278436.044294</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>A6A78ECA-CFBE-47C7-A2C0-45F27C508F7B</string>
+		</dict>
+		<key>A8AEC86C-369E-4730-B8FE-D83219E5BC80</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A8AEC86C-369E-4730-B8FE-D83219E5BC80.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305757.36363494</real>
+			<key>timeStoppedRecording</key>
+			<real>564305769.45984006</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>A8AEC86C-369E-4730-B8FE-D83219E5BC80</string>
+		</dict>
+		<key>AA0028D4-096F-41BB-9D10-A251AB1AE3E0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AA0028D4-096F-41BB-9D10-A251AB1AE3E0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279880.64905298</real>
+			<key>timeStoppedRecording</key>
+			<real>564279903.16494703</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AA0028D4-096F-41BB-9D10-A251AB1AE3E0</string>
+		</dict>
+		<key>AB842E6C-575D-47B3-8806-0978C4C9FC82</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB842E6C-575D-47B3-8806-0978C4C9FC82.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304384.704831</real>
+			<key>timeStoppedRecording</key>
+			<real>564304397.03160596</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AB842E6C-575D-47B3-8806-0978C4C9FC82</string>
+		</dict>
+		<key>AC2FBC79-6D5C-4DC9-8588-888297E5EBAC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AC2FBC79-6D5C-4DC9-8588-888297E5EBAC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304424.23949206</real>
+			<key>timeStoppedRecording</key>
+			<real>564304436.71852899</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AC2FBC79-6D5C-4DC9-8588-888297E5EBAC</string>
+		</dict>
+		<key>ADDB09D0-2BC1-4282-B578-A37BB15867C0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ADDB09D0-2BC1-4282-B578-A37BB15867C0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304552.98958004</real>
+			<key>timeStoppedRecording</key>
+			<real>564304584.76981699</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>ADDB09D0-2BC1-4282-B578-A37BB15867C0</string>
+		</dict>
+		<key>ADE7CEF6-7AF6-42D3-A6AE-2A109269923F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ADE7CEF6-7AF6-42D3-A6AE-2A109269923F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564309943.33223403</real>
+			<key>timeStoppedRecording</key>
+			<real>564310135.20857</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>ADE7CEF6-7AF6-42D3-A6AE-2A109269923F</string>
+		</dict>
+		<key>AE29DD9E-ACAD-4DCB-8F95-08F74DF296B3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AE29DD9E-ACAD-4DCB-8F95-08F74DF296B3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304336.76521003</real>
+			<key>timeStoppedRecording</key>
+			<real>564304355.61022699</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AE29DD9E-ACAD-4DCB-8F95-08F74DF296B3</string>
+		</dict>
+		<key>AF1377B7-3906-4C0C-AAFE-1F73BDB8275D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF1377B7-3906-4C0C-AAFE-1F73BDB8275D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564297043.18844402</real>
+			<key>timeStoppedRecording</key>
+			<real>564297136.08988094</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AF1377B7-3906-4C0C-AAFE-1F73BDB8275D</string>
+		</dict>
+		<key>AF755C4E-60A6-4F0C-AB47-3BCD87CBBEB2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF755C4E-60A6-4F0C-AB47-3BCD87CBBEB2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564270880.09587097</real>
+			<key>timeStoppedRecording</key>
+			<real>564271176.54163206</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AF755C4E-60A6-4F0C-AB47-3BCD87CBBEB2</string>
+		</dict>
+		<key>AF84CE9A-9FC0-4332-853F-A3149CB73BC4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF84CE9A-9FC0-4332-853F-A3149CB73BC4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304440.37265599</real>
+			<key>timeStoppedRecording</key>
+			<real>564304480.021137</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AF84CE9A-9FC0-4332-853F-A3149CB73BC4</string>
+		</dict>
+		<key>AFE5FDAC-9B66-4D0B-9F67-86ADC109C8C7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AFE5FDAC-9B66-4D0B-9F67-86ADC109C8C7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564230920.65599799</real>
+			<key>timeStoppedRecording</key>
+			<real>564231034.12551296</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AFE5FDAC-9B66-4D0B-9F67-86ADC109C8C7</string>
+		</dict>
+		<key>AFEFAFBD-F6D9-495B-8DAA-6E1B725D8711</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AFEFAFBD-F6D9-495B-8DAA-6E1B725D8711.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564228249.91756701</real>
+			<key>timeStoppedRecording</key>
+			<real>564228434.00148499</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>AFEFAFBD-F6D9-495B-8DAA-6E1B725D8711</string>
+		</dict>
+		<key>B2FBC04F-D755-4509-88A8-3D4E837AA8D4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B2FBC04F-D755-4509-88A8-3D4E837AA8D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564237113.18746305</real>
+			<key>timeStoppedRecording</key>
+			<real>564237269.31970203</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>B2FBC04F-D755-4509-88A8-3D4E837AA8D4</string>
+		</dict>
+		<key>B3861CC5-9E76-484C-8B6D-52D7968119D7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B3861CC5-9E76-484C-8B6D-52D7968119D7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564231804.08588505</real>
+			<key>timeStoppedRecording</key>
+			<real>564231854.30272102</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>B3861CC5-9E76-484C-8B6D-52D7968119D7</string>
+		</dict>
+		<key>B41B13CC-343C-444A-B47D-C813BE5E8EEB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B41B13CC-343C-444A-B47D-C813BE5E8EEB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564233192.93486297</real>
+			<key>timeStoppedRecording</key>
+			<real>564233461.75406504</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>B41B13CC-343C-444A-B47D-C813BE5E8EEB</string>
+		</dict>
+		<key>B83CA604-7306-47BF-8470-30E8EB34F448</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B83CA604-7306-47BF-8470-30E8EB34F448.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564231652.88164902</real>
+			<key>timeStoppedRecording</key>
+			<real>564231742.33861101</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>B83CA604-7306-47BF-8470-30E8EB34F448</string>
+		</dict>
+		<key>BDDA49F4-AF83-4EA8-80A1-52EA6F804FED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BDDA49F4-AF83-4EA8-80A1-52EA6F804FED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564241489.23694205</real>
+			<key>timeStoppedRecording</key>
+			<real>564241631.80548</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>BDDA49F4-AF83-4EA8-80A1-52EA6F804FED</string>
+		</dict>
+		<key>C1C8EFA9-3159-488F-9DA1-84F87EFE687F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C1C8EFA9-3159-488F-9DA1-84F87EFE687F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304360.150769</real>
+			<key>timeStoppedRecording</key>
+			<real>564304380.24619305</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>C1C8EFA9-3159-488F-9DA1-84F87EFE687F</string>
+		</dict>
+		<key>C76AB0E4-129E-48CB-8792-B1C1A07DC3EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C76AB0E4-129E-48CB-8792-B1C1A07DC3EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304781.25143802</real>
+			<key>timeStoppedRecording</key>
+			<real>564304813.76803195</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>C76AB0E4-129E-48CB-8792-B1C1A07DC3EF</string>
+		</dict>
+		<key>CF59F6A7-6A0A-4AE6-95D1-0D8576CC8739</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF59F6A7-6A0A-4AE6-95D1-0D8576CC8739.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564239258.70840204</real>
+			<key>timeStoppedRecording</key>
+			<real>564239912.38674295</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>CF59F6A7-6A0A-4AE6-95D1-0D8576CC8739</string>
+		</dict>
+		<key>CF6F59C3-D3D6-4909-9F14-6EA2B250F3FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CF6F59C3-D3D6-4909-9F14-6EA2B250F3FD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564230114.91731703</real>
+			<key>timeStoppedRecording</key>
+			<real>564230630.69413698</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>CF6F59C3-D3D6-4909-9F14-6EA2B250F3FD</string>
+		</dict>
+		<key>D24A2FDD-8FDD-4A94-82C9-F646B9FAFBAB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D24A2FDD-8FDD-4A94-82C9-F646B9FAFBAB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279907.50914299</real>
+			<key>timeStoppedRecording</key>
+			<real>564280007.94207704</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D24A2FDD-8FDD-4A94-82C9-F646B9FAFBAB</string>
+		</dict>
+		<key>D39D4F8E-842F-4AEF-97AE-E7AD72B491B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D39D4F8E-842F-4AEF-97AE-E7AD72B491B1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564271944.66011202</real>
+			<key>timeStoppedRecording</key>
+			<real>564272040.77202404</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D39D4F8E-842F-4AEF-97AE-E7AD72B491B1</string>
+		</dict>
+		<key>D7289E2E-F021-412E-B967-B5BCFF1C1EDA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7289E2E-F021-412E-B967-B5BCFF1C1EDA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564297215.45380402</real>
+			<key>timeStoppedRecording</key>
+			<real>564297261.48824501</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D7289E2E-F021-412E-B967-B5BCFF1C1EDA</string>
+		</dict>
+		<key>D785438D-5CDE-4CE6-9EE8-B9C498CF8E62</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D785438D-5CDE-4CE6-9EE8-B9C498CF8E62.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564272636.90831101</real>
+			<key>timeStoppedRecording</key>
+			<real>564272666.42315602</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D785438D-5CDE-4CE6-9EE8-B9C498CF8E62</string>
+		</dict>
+		<key>D7F4D96C-D2C6-4932-9F4B-88B54A4863A3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D7F4D96C-D2C6-4932-9F4B-88B54A4863A3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305191.71660805</real>
+			<key>timeStoppedRecording</key>
+			<real>564305320.98735595</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D7F4D96C-D2C6-4932-9F4B-88B54A4863A3</string>
+		</dict>
+		<key>D89E9104-789C-48C5-9AE0-F7330F4C9B89</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D89E9104-789C-48C5-9AE0-F7330F4C9B89.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279512.28726494</real>
+			<key>timeStoppedRecording</key>
+			<real>564279672.93408</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D89E9104-789C-48C5-9AE0-F7330F4C9B89</string>
+		</dict>
+		<key>D95E14E5-0A5A-4D26-888B-A6135DB7D2D8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D95E14E5-0A5A-4D26-888B-A6135DB7D2D8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278439.49063802</real>
+			<key>timeStoppedRecording</key>
+			<real>564278685.52568805</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D95E14E5-0A5A-4D26-888B-A6135DB7D2D8</string>
+		</dict>
+		<key>D967B3BC-F28B-4C81-9401-8CF807B842A0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D967B3BC-F28B-4C81-9401-8CF807B842A0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304700.58761001</real>
+			<key>timeStoppedRecording</key>
+			<real>564304727.48538101</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>D967B3BC-F28B-4C81-9401-8CF807B842A0</string>
+		</dict>
+		<key>DD02E584-0EA4-4DBE-B916-17C0942648FA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DD02E584-0EA4-4DBE-B916-17C0942648FA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564294822.44068396</real>
+			<key>timeStoppedRecording</key>
+			<real>564294875.43709898</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>DD02E584-0EA4-4DBE-B916-17C0942648FA</string>
+		</dict>
+		<key>DE211642-E666-4660-B805-B1701153B8FF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DE211642-E666-4660-B805-B1701153B8FF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278689.29704404</real>
+			<key>timeStoppedRecording</key>
+			<real>564278725.27377498</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>DE211642-E666-4660-B805-B1701153B8FF</string>
+		</dict>
+		<key>DFF20621-B00C-4144-8944-5B03D8BB527C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DFF20621-B00C-4144-8944-5B03D8BB527C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564240419.83839202</real>
+			<key>timeStoppedRecording</key>
+			<real>564241048.124143</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>DFF20621-B00C-4144-8944-5B03D8BB527C</string>
+		</dict>
+		<key>E17C3E00-5CA3-4D1B-B4CE-114CE849130A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E17C3E00-5CA3-4D1B-B4CE-114CE849130A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564305162.24543905</real>
+			<key>timeStoppedRecording</key>
+			<real>564305186.92328203</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>E17C3E00-5CA3-4D1B-B4CE-114CE849130A</string>
+		</dict>
+		<key>E1F28A96-A66F-4DA2-8ECD-890B50D2EBD9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E1F28A96-A66F-4DA2-8ECD-890B50D2EBD9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304076.52680194</real>
+			<key>timeStoppedRecording</key>
+			<real>564304107.39739394</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>E1F28A96-A66F-4DA2-8ECD-890B50D2EBD9</string>
+		</dict>
+		<key>E46667BA-4CDE-4219-853E-60781816CA7C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E46667BA-4CDE-4219-853E-60781816CA7C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279715.78448999</real>
+			<key>timeStoppedRecording</key>
+			<real>564280248.96458602</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>E46667BA-4CDE-4219-853E-60781816CA7C</string>
+		</dict>
+		<key>E5D89C90-CCAB-4730-B751-9D5866C4AF33</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E5D89C90-CCAB-4730-B751-9D5866C4AF33.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564228944.61739004</real>
+			<key>timeStoppedRecording</key>
+			<real>564229416.74370801</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>E5D89C90-CCAB-4730-B751-9D5866C4AF33</string>
+		</dict>
+		<key>E6CC48BD-36D8-4D77-9711-F4A863B61770</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E6CC48BD-36D8-4D77-9711-F4A863B61770.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279383.95887995</real>
+			<key>timeStoppedRecording</key>
+			<real>564279459.04596806</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>E6CC48BD-36D8-4D77-9711-F4A863B61770</string>
+		</dict>
+		<key>EA249BE5-2548-4DAB-8C42-FE820F2379F1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA249BE5-2548-4DAB-8C42-FE820F2379F1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564294228.77942204</real>
+			<key>timeStoppedRecording</key>
+			<real>564294813.93463397</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>EA249BE5-2548-4DAB-8C42-FE820F2379F1</string>
+		</dict>
+		<key>EA518201-F580-4B38-BDEE-A2747E41A91D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EA518201-F580-4B38-BDEE-A2747E41A91D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303179.72268605</real>
+			<key>timeStoppedRecording</key>
+			<real>564303249.91142297</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>EA518201-F580-4B38-BDEE-A2747E41A91D</string>
+		</dict>
+		<key>EC878BF4-C855-4ACB-AAB4-8AB22252195B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EC878BF4-C855-4ACB-AAB4-8AB22252195B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564300367.50593901</real>
+			<key>timeStoppedRecording</key>
+			<real>564302362.74094296</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>EC878BF4-C855-4ACB-AAB4-8AB22252195B</string>
+		</dict>
+		<key>ECBBE901-2695-41AF-A37B-34684E56CA32</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ECBBE901-2695-41AF-A37B-34684E56CA32.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564238867.87919998</real>
+			<key>timeStoppedRecording</key>
+			<real>564238988.19044995</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>ECBBE901-2695-41AF-A37B-34684E56CA32</string>
+		</dict>
+		<key>F131FD07-99DD-46E2-A07C-E64F102CDC58</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F131FD07-99DD-46E2-A07C-E64F102CDC58.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564237331.20022404</real>
+			<key>timeStoppedRecording</key>
+			<real>564237792.170349</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F131FD07-99DD-46E2-A07C-E64F102CDC58</string>
+		</dict>
+		<key>F268C0E8-E919-4A6D-BA5C-A1AE63CC1546</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F268C0E8-E919-4A6D-BA5C-A1AE63CC1546.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564304647.76008296</real>
+			<key>timeStoppedRecording</key>
+			<real>564304695.56382298</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F268C0E8-E919-4A6D-BA5C-A1AE63CC1546</string>
+		</dict>
+		<key>F3867DF6-DBC8-4819-A430-E1B2D88531A0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F3867DF6-DBC8-4819-A430-E1B2D88531A0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303799.690642</real>
+			<key>timeStoppedRecording</key>
+			<real>564303815.694543</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F3867DF6-DBC8-4819-A430-E1B2D88531A0</string>
+		</dict>
+		<key>F44D28B6-56F9-44B3-A728-32ACA0F696ED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F44D28B6-56F9-44B3-A728-32ACA0F696ED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564229416.78424299</real>
+			<key>timeStoppedRecording</key>
+			<real>564229667.75360096</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F44D28B6-56F9-44B3-A728-32ACA0F696ED</string>
+		</dict>
+		<key>F49279D5-2822-4E42-94AD-5927B9AB714A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F49279D5-2822-4E42-94AD-5927B9AB714A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564279295.13274896</real>
+			<key>timeStoppedRecording</key>
+			<real>564279380.30614495</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F49279D5-2822-4E42-94AD-5927B9AB714A</string>
+		</dict>
+		<key>F49524AF-E285-48E7-A378-41E9C161310C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F49524AF-E285-48E7-A378-41E9C161310C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564300304.54856503</real>
+			<key>timeStoppedRecording</key>
+			<real>564300322.50499296</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F49524AF-E285-48E7-A378-41E9C161310C</string>
+		</dict>
+		<key>F4E643CD-A11B-49C7-8082-4744D9EC4F7A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F4E643CD-A11B-49C7-8082-4744D9EC4F7A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564278917.89454103</real>
+			<key>timeStoppedRecording</key>
+			<real>564278991.22768295</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F4E643CD-A11B-49C7-8082-4744D9EC4F7A</string>
+		</dict>
+		<key>F4F8B379-3315-44FC-875D-47A3655E7E00</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F4F8B379-3315-44FC-875D-47A3655E7E00.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564229886.52837396</real>
+			<key>timeStoppedRecording</key>
+			<real>564230111.68002903</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>F4F8B379-3315-44FC-875D-47A3655E7E00</string>
+		</dict>
+		<key>FC921B8F-3E7A-45C8-9D3E-B03FAC6D695B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FC921B8F-3E7A-45C8-9D3E-B03FAC6D695B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564233094.35280001</real>
+			<key>timeStoppedRecording</key>
+			<real>564233155.13482404</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>FC921B8F-3E7A-45C8-9D3E-B03FAC6D695B</string>
+		</dict>
+		<key>FF5A79DB-E90E-4AA8-9926-3CFC99ED82E4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF5A79DB-E90E-4AA8-9926-3CFC99ED82E4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564231984.78474605</real>
+			<key>timeStoppedRecording</key>
+			<real>564232160.29216099</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>FF5A79DB-E90E-4AA8-9926-3CFC99ED82E4</string>
+		</dict>
+		<key>FF8866E3-F307-4710-9B7B-9AC998865B0F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FF8866E3-F307-4710-9B7B-9AC998865B0F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>GitHubViewer project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GitHubViewer</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug GitHubViewer</string>
+			<key>timeStartedRecording</key>
+			<real>564303019.54217696</real>
+			<key>timeStoppedRecording</key>
+			<real>564303173.45338202</real>
+			<key>title</key>
+			<string>Debug GitHubViewer</string>
+			<key>uniqueIdentifier</key>
+			<string>FF8866E3-F307-4710-9B7B-9AC998865B0F</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
