@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F90926821A66C4400E3D558 /* NSAttributedString+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F90926721A66C4400E3D558 /* NSAttributedString+Ext.swift */; };
 		8FB5A6F7219A153900C6D9DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB5A6F6219A153900C6D9DB /* AppDelegate.swift */; };
 		8FB5A6F9219A153900C6D9DB /* PullRequestDiffVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FB5A6F8219A153900C6D9DB /* PullRequestDiffVC.swift */; };
 		8FB5A6FF219A153900C6D9DB /* GitHubViewer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8FB5A6FD219A153900C6D9DB /* GitHubViewer.xcdatamodeld */; };
@@ -44,6 +45,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8F90926721A66C4400E3D558 /* NSAttributedString+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSAttributedString+Ext.swift"; sourceTree = "<group>"; };
 		8FB5A6F3219A153900C6D9DB /* GitHubViewer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubViewer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FB5A6F6219A153900C6D9DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8FB5A6F8219A153900C6D9DB /* PullRequestDiffVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PullRequestDiffVC.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				8FB5A73B219D9F3300C6D9DB /* UIDevice+Ext.swift */,
 				8FB5A73D219EBCC200C6D9DB /* String+Ext.swift */,
 				8FD02B5621A1191800C70956 /* NSMutableAttributedString+Ext.swift */,
+				8F90926721A66C4400E3D558 /* NSAttributedString+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				8FD02B5721A1191800C70956 /* NSMutableAttributedString+Ext.swift in Sources */,
 				8FB5A6F9219A153900C6D9DB /* PullRequestDiffVC.swift in Sources */,
 				8FB5A72E219B947400C6D9DB /* GitHubApi.swift in Sources */,
+				8F90926821A66C4400E3D558 /* NSAttributedString+Ext.swift in Sources */,
 				8FB5A738219D0E4B00C6D9DB /* UIViewController+Ext.swift in Sources */,
 				8FB5A73E219EBCC200C6D9DB /* String+Ext.swift in Sources */,
 				8FB5A731219CFAB100C6D9DB /* PullRequestsTableVC.swift in Sources */,
