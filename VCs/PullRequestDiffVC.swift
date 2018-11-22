@@ -69,13 +69,16 @@ class PullRequestDiffVC: UIViewController
     // Display pull request commit diffs
     private func displayDiffs()
     {
-        guard let prDiff = diffs else { return }
+        guard let prDiff = diffs,
+        let font = UIFont(name: "Georgia", size: UIDevice.current.iPhone() ? 12 : 14) else { return }
         
         let oldText = NSMutableAttributedString()
         let newText = NSMutableAttributedString()
         let normalTextColor = #colorLiteral(red: 0.921431005, green: 0.9214526415, blue: 0.9214410186, alpha: 1)
         let oldTextBgColor = #colorLiteral(red: 0.5807225108, green: 0.066734083, blue: 0, alpha: 1)
+        let oldTextNewLineBgColor = #colorLiteral(red: 0.5807225108, green: 0.066734083, blue: 0, alpha: 1).withAlphaComponent(0.85)
         let newTextBgColor = #colorLiteral(red: 0, green: 0.5603182912, blue: 0, alpha: 1)
+        let newTextNewLineBgColor = #colorLiteral(red: 0, green: 0.5603182912, blue: 0, alpha: 1).withAlphaComponent(0.85)
 
         oldText.beginEditing()
         newText.beginEditing()
@@ -161,35 +164,34 @@ class PullRequestDiffVC: UIViewController
                     // Add previous and new lines
                     for i in 0..<lines
                     {
-                        // Add previous lines
-                        if chunk.oldLines.indices.contains(i)
-                        {
-                            // Add previous line to old text
-                            oldText.append(NSAttributedString(string: lineNumberString(oldTextLineNum) + chunk.oldLines[i] + "\n",
-                                                              attributes: [.foregroundColor : normalTextColor,
-                                                                           .backgroundColor : oldTextBgColor]))
-                            oldTextLineNum += 1
-                        }
-                        else if chunk.newLines.indices.contains(i)
-                        {
-                            // Add invisible new text so that views align
-                            oldText.appendInvisibleString(lineNumberString(newTextLineNum) + chunk.newLines[i] + "\n")
-                        }
+                        // Create lines so that they are aligned when displayed in diff views
+                        let oldLine =
+                            NSMutableAttributedString(string: chunk.oldLines.indices.contains(i) ? lineNumberString(oldTextLineNum) + chunk.oldLines[i] + "\n" : "",
+                                                      attributes: [.foregroundColor : normalTextColor,
+                                                                   .backgroundColor : chunk.oldLines.indices.contains(i) ? oldTextBgColor : oldTextNewLineBgColor,
+                                                                   .font: font])
+                        let newLine =
+                            NSMutableAttributedString(string: chunk.newLines.indices.contains(i) ? lineNumberString(newTextLineNum) + chunk.newLines[i] + "\n" : "",
+                                                      attributes: [.foregroundColor : normalTextColor,
+                                                                   .backgroundColor : chunk.newLines.indices.contains(i) ? newTextBgColor : newTextNewLineBgColor,
+                                                                   .font: font])
+                        // Calculate expected lines when displayed and add new lines to align text
+                        let numOldLines = oldLine.numberOfLines(in: oldTextView, font: font)
+                        let numNewLines = newLine.numberOfLines(in: newTextView, font: font)
+                        let lineCount = max(numOldLines, numNewLines)
+                        numOldLines > numNewLines
+                            ? newLine.append(NSAttributedString(string: String(repeating: "\n", count: lineCount - numNewLines),
+                                                                attributes: [.backgroundColor : newTextNewLineBgColor]))
+                            : oldLine.append(NSAttributedString(string: String(repeating: "\n", count: lineCount - numOldLines),
+                                                                attributes: [.backgroundColor : oldTextNewLineBgColor]))
 
-                        // Add new lines
-                        if chunk.newLines.indices.contains(i)
-                        {
-                            // Add new line to new text
-                            newText.append(NSAttributedString(string: lineNumberString(newTextLineNum) + chunk.newLines[i] + "\n",
-                                                              attributes: [.foregroundColor : normalTextColor,
-                                                                           .backgroundColor : newTextBgColor]))
-                            newTextLineNum += 1
-                        }
-                        else if chunk.oldLines.indices.contains(i)
-                        {
-                            // Add invisible old text so that views align
-                            newText.appendInvisibleString(lineNumberString(oldTextLineNum) + chunk.oldLines[i] + "\n")
-                        }
+                        // Append lines for text in diff views
+                        oldText.append(oldLine)
+                        newText.append(newLine)
+
+                        // Increment line numbers for text in diff views
+                        if chunk.oldLines.indices.contains(i) { oldTextLineNum += 1 }
+                        if chunk.newLines.indices.contains(i) { newTextLineNum += 1 }
                     }
                 }
             }
